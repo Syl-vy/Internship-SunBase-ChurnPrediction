@@ -59,6 +59,14 @@ Once satisfied with the model's performance, we deploy it in a production-like e
 ## Performance Metrics and Visualizations
 We use Jupyter notebooks and python scripts to perform model performance metrics and visualizations. The results are included in the `notebooks` directory.
 
+## Requirements
+
+To run this project, you'll need to have Python and the following libraries installed. You can install the required libraries by running the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Contributing
 If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
